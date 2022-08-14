@@ -1,3 +1,4 @@
 ---
 - include: nginx.yaml
 - include: deploy_code_with_copy.yaml
+- include: deploy_code_with_templates.yaml
